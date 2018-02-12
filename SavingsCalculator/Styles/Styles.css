@@ -1,0 +1,31 @@
+﻿body {
+    margin-top: 10px;
+    background-color: #354B5E;
+    font-family: 'Ubuntu Mono', monospace;
+    color: #fff;
+}
+
+.content {
+    /*background-color: rgba(160, 32, 240, 0.1);*/
+    background-color: #354B5E;
+    font-size: 18px;
+    color: #fff;
+}
+
+.heading {
+    background: #354B5E;
+    color: #fff;
+}
+
+.txtBox{
+    display:inline;
+}
+
+.btn-primary {
+    background-color: #038cfc;
+}
+
+.btn-primary:hover {
+    background-color: #fff;
+    color: #354B5E;
+}
